@@ -1,6 +1,7 @@
 # SpO2_OSAS_multimodal_classification
 
-**Zenodo DOI:** 
+**Zenodo DOI:** https://doi.org/10.5281/zenodo.23192517
+
 
 ## Multimodal Fusion of SpO₂ Time Series and Clinical Data for Explainable Classification of Obstructive Sleep Apnea Severity
 
