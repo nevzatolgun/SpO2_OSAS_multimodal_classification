@@ -1,0 +1,18 @@
+Code Description
+================
+
+Main script
+-----------
+code/spo2_osas_multimodal_classification.py
+
+The script implements the numerical analysis pipeline used in the study.
+It performs:
+
+1. SpO₂ preprocessing and feature extraction.
+2. Construction of A1–A11 feature configurations.
+3. Stratified 5-fold subject-level cross-validation.
+4. Evaluation of kNN, Random Forest, and Extra Trees classifiers.
+5. Saving of fold-wise, class-wise, ROC, confusion-matrix, and OOF results.
+6. Optional bootstrap and permutation analyses.
+7. Extra Trees feature importance and SHAP-based interpretation.
+

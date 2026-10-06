@@ -1,0 +1,15 @@
+Software Requirements
+=====================
+
+Python 3.10 or later is recommended.
+
+Core packages:
+- NumPy
+- pandas
+- SciPy
+- scikit-learn
+- SHAP
+
+Install the tested package versions with:
+
+pip install -r requirements.txt

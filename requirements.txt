@@ -1,0 +1,5 @@
+numpy==2.2.5
+pandas==2.3.3
+scipy==1.15.3
+scikit-learn==1.8.0
+shap==0.50.0

@@ -1,0 +1,21 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite the associated study and software record."
+type: software
+title: "SpO2 OSAS Multimodal Classification: Source Code and Reproducibility Materials"
+version: "1.0.0"
+date-released: "2026-10-06"
+license: MIT
+repository-code: "https://github.com/nevzatolgun/SpO2_OSAS_multimodal_classification"
+authors:
+  - family-names: "Baş"
+    given-names: "Aycan"
+    affiliation: "Department of Biophysics, Afyonkarahisar Health Sciences University"
+  - family-names: "Olgun"
+    given-names: "Nevzat"
+    affiliation: "Department of Software Engineering, Afyon Kocatepe University"
+  - family-names: "Yurttakal"
+    given-names: "Ahmet Haşim"
+    affiliation: "Department of Computer Engineering, Afyon Kocatepe University"
+  - family-names: "Çilekar"
+    given-names: "Şule"
+    affiliation: "Department of Pulmonology, Afyonkarahisar Health Sciences University"
